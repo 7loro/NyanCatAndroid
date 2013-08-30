@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#canvas {
+    position: absolute;
+    display: block;
+    left: 0%;
+    top: 0%;
+}
